@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Roboto";
+}
+
+body {
+    margin: 0px auto;
+    width: 1000px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: "Chelsea Market", cursive;
+}
+
+nav {
+    display: flex;
+    font-size: 1.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header {
+    margin-top: 40px;
+}
+
+#bottom-header {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+#bottom-header-text {
+    margin-left: 100px;
+}
+
+#bottom-header-text p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+nav a {
+    width: 10rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#header-img {
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+}
+
+.visit {
+    background-color: #FF764E;
+}
+
+.learn {
+    background-color: #5ED3EB;
+}
+
+.involved {
+    background-color: #FFCD69;
+}
