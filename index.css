@@ -67,14 +67,6 @@ footer nav {
     justify-content: space-evenly;
 }
 
-/* #bottom-header h2  {
-    margin-left: 5rem;
-}
-
-#bottom-header-text{
-    margin-right: 20rem;
-}
-*/
 #bottom-header-text p {
     margin-left: 5rem;
     font-weight: 900;
@@ -97,10 +89,6 @@ h2 {
 }
 
 #header-img {
-    /* display: block;
-    margin-top: 20px;
-    margin-right: 5rem;
-    margin-left: 15rem; */
     border-radius: 100%;
     width: 20rem;
     height: 20rem;
